@@ -149,7 +149,7 @@ section#trivia {
 }
 
 .bl_img {
-  background-image: url("black_hole.jpg");
+  background-image: url("../images/black_hole.jpg");
   height: 900px;
   top: -20px;
   width: 100%;
