@@ -28,7 +28,7 @@ h3 {
     
 }
 .img {
-  background-image: url("images/hack.jpg");
+  background-image: url("../images/hack.jpg");
   height: 740px;
   background-position: center;
   background-repeat: no-repeat;
